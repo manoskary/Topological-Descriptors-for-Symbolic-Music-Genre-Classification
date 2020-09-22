@@ -86,7 +86,7 @@ use pip for python 2 & pip3 for python 3
  
 1. Clone the repo
 ```sh
-git clone https://github.com/melkisedeath/repo.git
+git clone https://github.com/melkisedeath/Topological-Descriptors-for-Symbolic-Music-Genre-Classification.git
 ```
 2. Download the Lakh Dataset following the instructions from [The Lakh Dataset](https://colinraffel.com/projects/lmd/) and move the LMD-Matched repository in the results subfolder, i.e. yourPath/Music_Classification/results.
 3. Run the notebooks.
@@ -111,7 +111,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Manos Karistineos - [@linkedin_handle](https://www.linkedin.com/in/manos-karistineos/) - manoskaristineos@gmail.com
+Manos Karistineos - [Linkedin](https://www.linkedin.com/in/manos-karistineos/) - [e-mail](mailto:manoskaristineos@gmail.com)
 
 Project Link: [github.com/melkisedeath/Topological-Descriptors-for-Symbolic-Music-Genre-Classification](https://github.com/melkisedeath/Topological-Descriptors-for-Symbolic-Music-Genre-Classification)
 
