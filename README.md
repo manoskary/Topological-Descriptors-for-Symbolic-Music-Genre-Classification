@@ -124,7 +124,7 @@ Project Link: [github.com/melkisedeath/Topological-Descriptors-for-Symbolic-Musi
 
 <!-- ACKNOWLEDGEMENTS -->
 ## References
-
 Publication to come!
-* [MUSIC GENRE DESCRIPTOR FOR CLASSIFICATION BASED ON TONNETZ TRAJECTORIES]()
+
+* [Music Genre Descriptor for Classification based on Tonnetz Trajectories, Emmanouil Karystinaios, Corentin Guichaoua, Moreno Andreatta, Louis Bigo, Isabelle Bloch. *Journée de l'informatique musicale*, 2020.]()
 
